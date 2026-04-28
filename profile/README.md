@@ -1,4 +1,4 @@
-# LABS
+# WIBX LABS DEPARTMENT
 
 <p align="center">
   <pre>
@@ -19,7 +19,7 @@
 **Team** : [Caio Maciel](https://github.com/kvag0), [Pedro Escaleira](https://github.com/EscaleiraP) 
 
 ---
-# **Operation** (LABS)
+# **Operation**
 
 ## **Learn**
 
