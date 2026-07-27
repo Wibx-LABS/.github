@@ -1,13 +1,27 @@
+# WIBX LABS DEPARTMENT
+
+<p align="center">
+  <pre>
+ █████         █████████   ███████████   █████████ 
+░░███         ███░░░░░███ ░░███░░░░░███ ███░░░░░███
+ ░███        ░███    ░███  ░███    ░███░███    ░░░ 
+ ░███        ░███████████  ░██████████ ░░█████████ 
+ ░███        ░███░░░░░███  ░███░░░░░███ ░░░░░░░░███
+ ░███      █ ░███    ░███  ░███    ░███ ███    ░███
+ ███████████ █████   █████ ███████████ ░░█████████ 
+░░░░░░░░░░░ ░░░░░   ░░░░░ ░░░░░░░░░░░   ░░░░░░░░░  
+  </pre>
+  <strong>Capability transferred, not work delivered</strong>
+</p>
+
+---
+
 # Purpose
 
 > WibX Labs exists to remove the structural limits that prevent the company from operating at scale.
 >
 > It does this by embedding inside departments, transferring capability to the people closest to the problem, and leaving behind systems those departments own and never require Labs to return to.
 > 
-
-```
-Capability transferred, not work delivered
-```
 
 Labs is not a service desk, not an internal consultancy, and not a permanent owner of what it builds.
 
