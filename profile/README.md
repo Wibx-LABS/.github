@@ -11,38 +11,41 @@
  ███████████ █████   █████ ███████████ ░░█████████ 
 ░░░░░░░░░░░ ░░░░░   ░░░░░ ░░░░░░░░░░░   ░░░░░░░░░  
   </pre>
-  <strong>Turning executive intent into repeatable operational reality</strong>
+  <strong>Capability transferred, not work delivered</strong>
 </p>
 
->LABS exists to reduce operational cost, friction, and risk by designing, implementing, and maintaining the systems that allow the company to execute reliability at scale.
+>WibX Labs exists to remove the structural limits that prevent the company from operating at scale. It embeds inside departments, transfers capability to the people closest to the problem, and leaves behind systems those departments own and never require Labs to return to.
 
 **Team** : [Caio Maciel](https://github.com/kvag0), [Pedro Escaleira](https://github.com/EscaleiraP) 
 
 ---
-# **Operation**
+# **Engagement Lifecycle**
 
-## **Learn**
+```
+0 · Baseline        Pre-engagement measurement captured. No baseline, no engagement.
+1 · Proof           Nothing is handed off unproven.
+2 · Handoff         Deliverable transfers. Labs extracts here.
+3 · Observation     One month, unsupervised.
+4 · Certification   Reviewed, owner confirmed, engagement closed.
+```
 
-> Continuously absorb external and internal signals through market research, networking, technical documentation, operational data, and direct observation of workflows.
+---
+# **Outcome Primitives**
+
+## **Autonomy**
+
+> Reduce dependency on a specific individual or gatekeeper.
 > 
 
-## **Apply**
+## **Scalability**
 
-> Filter and contextualize what was learned against real internal problems. Ideas are only carried forward when they clearly map to operational pain, cost reduction, risk mitigation, or execution reliability.
+> Survive 10x–1000x volume without structural failure.
 > 
-
-## **Build**
-
-> Design and implement systems, processes, tooling, automation, or structural changes that address the validated problem. Simplicity is preferred over sophistication.
-> 
-
-## **Scale**
-
-> Standardise, document, automate, and expand only what has proven effective. Scaling without evidence is treated as risk.
 
 ---
 
 <p align="center">
+  Governed by the <strong><a href="https://app.notion.com/p/2e1cef373b5681e5934dfff1a272224b">Operating Charter v1.0</a></strong><br>
   <strong>Built and maintained by the Wibx Labs team. Since 2026</strong>
 </p>
 
