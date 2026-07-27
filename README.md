@@ -1,84 +1,45 @@
 # Purpose
 
-> LABS exists to reduce operational cost, friction, and risk by designing, implementing, and maintaining the systems that allow the company to execute reliability at scale.
+> WibX Labs exists to remove the structural limits that prevent the company from operating at scale.
+>
+> It does this by embedding inside departments, transferring capability to the people closest to the problem, and leaving behind systems those departments own and never require Labs to return to.
 > 
 
 ```
-Turns executive intent into repeatable operational reality
+Capability transferred, not work delivered
+```
+
+Labs is not a service desk, not an internal consultancy, and not a permanent owner of what it builds.
+
+---
+
+# **Engagement Lifecycle**
+
+```
+0 · Baseline        Pre-engagement measurement captured. No baseline, no engagement.
+1 · Proof           Nothing is handed off unproven.
+2 · Handoff         Deliverable transfers. Labs extracts here.
+3 · Observation     One month, unsupervised.
+4 · Certification   Reviewed, owner confirmed, engagement closed.
 ```
 
 ---
 
-# **Operation** (LABS)
+# **Outcome Primitives**
 
-## **Learn**
+## **Autonomy**
 
-> Continuously absorb external and internal signals through market research, networking, technical documentation, operational data, and direct observation of workflows.
+> Reduce dependency on a specific individual or gatekeeper.
 > 
 
-## **Apply**
+## **Scalability**
 
-> Filter and contextualize what was learned against real internal problems. Ideas are only carried forward when they clearly map to operational pain, cost reduction, risk mitigation, or execution reliability.
-> 
-
-## **Build**
-
-> Design and implement systems, processes, tooling, automation, or structural changes that address the validated problem. Simplicity is preferred over sophistication.
-> 
-
-## **Scale**
-
-> Standardise, document, automate, and expand only what has proven effective. Scaling without evidence is treated as risk.
+> Survive 10x–1000x volume without structural failure.
 > 
 
 ---
 
-# Systemic Refactoring
-
-1. Isolate tasks and decisions
-2. Map real workflows as they exist, not as documented
-3. Identify bottlenecks, handoffs, waiting time, and failure points
-4. Reverse-engineer root causes
-5. Rebuild systems to reduce cost, time, cognitive load, and error rate
-
----
-
-# Intake Principles
-
-LABS accepts problems that meet at least one of the following criteria:
-
-- Systemic (recurring or cross-functional)
-- Measurably reduces operational cost or risk
-- Improves execution speed, reliability, or executive confidence
-
-Problems that are one-off, purely performance-related, or ownership issues are redirected rather than absorbed.
-
----
-
-# Metrics and Evidence
-
-LABS maintains continuous external intelligence intake through market research, networking, events, and technical exploration.
-
-External signals are:
-
-- Captured systematically
-- prioritised against internal needs
-- Converted into experiments or explicitly discarded
-
-Learning without testing is treated as incomplete.
-
----
-
-# Authority and Constraints
-
-LABS is empowered to:
-
-- Propose and implement system changes
-- Introduce tooling, automation, and AI where justified
-- Challenge existing workflows using evidence
-
-LABS is constrained by:
-
-- Defined budget limit
-- Measurable impact expectations
-- The requirement to document decisions and trade-offs
+<p align="center">
+  Governing ruleset: <strong><a href="https://app.notion.com/p/2e1cef373b5681e5934dfff1a272224b">Operating Charter v1.0</a></strong><br>
+  <sub>Cite it by section. This README is a summary and is not authoritative.</sub>
+</p>
